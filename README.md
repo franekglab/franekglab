@@ -1,7 +1,7 @@
 <h1 align="left" tabindex="-1" class="heading-element" dir="auto">Hi I'm Franek</h1>
 <div align="left">
 	
- <h3 align="left" tabindex="0" class="heading-element" dir="auto">Aspiring Software Engineer, currently working with Java/Springboot. Here is my tech stack :</a> </h3>
+ <h3 align="left" tabindex="0" class="heading-element" dir="auto">Aspiring Software Engineer, currently working with Java/Springboot. Here is my current tech stack :</a> </h3>
 	
  <table>
 		<tr>
