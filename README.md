@@ -1,3 +1,4 @@
+#Hi I'm Franek, Aspiring Software engineer currently working with Java/Springboot. Here is my tech stack:
 <div align="center">
 	<table>
 		<tr>
